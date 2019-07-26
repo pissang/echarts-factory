@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "target": "es5",
+        "lib": ["es6", "dom"],
+        "outDir": "dist",
+        "allowJs": true
+    }
+}
