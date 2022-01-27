@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "three": "^0.106.2",
+    "three": "^0.137.0",
     "three-pathfinding": "^0.10.0"
   },
   "devDependencies": {
